@@ -1,0 +1,23 @@
+/*css.......................................*/
+/* font-size: 2mm;
+    font-size: 2cm;not good */
+    /* font-size: 20px; rosolation images */
+    /* font-size: 50%; nesbat be parent mored nazar taqir mikonad responsive*/
+    /* font-size: 3ch; be enendaze karakter 0 taqir mikone */
+    /* font-size: 0.5em;parent responsive*/
+    /* (0.5 x 30=15px) */
+    /* font-size: 0.5rem;parent html responsive*/
+    
+*{text-align: center;}
+body{background-color: rgba(70, 95, 135, 0.6);}
+div{ border: 2px solid rgb(194, 146, 26);}
+#image-me{
+    width: 200px; height: 200px;margin: auto;}
+#colors{
+    width: px; height: fit-content;}
+#image-girl{width:100px;height:100px;}
+table,tr{
+    border: 2px solid black;
+    margin: auto;}
+#col2{background-color: brown;}
+#col4{background-color: brown;}
