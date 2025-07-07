@@ -9,12 +9,14 @@
     /* font-size: 0.5rem;parent html responsive*/
     
 *{text-align: center;}
-body{background-color: rgba(70, 95, 135, 0.6);}
-div{ border: 2px solid rgb(194, 146, 26);}
+body{background-color: rgba(70, 95, 135, 0.6);
+background-image: url(images/amir.jpg) ;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+div{ border: 1px solid rgb(194, 146, 26);}
 #image-me{
     width: 200px; height: 200px;margin: auto;}
-#colors{
-    width: px; height: fit-content;}
 #image-girl{width:100px;height:100px;}
 table,tr{
     border: 2px solid black;
