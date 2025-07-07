@@ -15,7 +15,7 @@ background-size:auto;
 background-repeat: no-repeat;
 background-attachment: fixed;
 }
-div{ border: 20px double(4, 146, 26);
+div{ border: 20px double /*It can be used from (solid and dotted) */ rgb(208, 134, 22);
     background-color: rgba(4, 255, 96, 0.329);
 padding: 2vw;
 
@@ -23,9 +23,9 @@ padding: 2vw;
 #image-me{
     width: 200px; height: 200px;margin: auto;}
 #image-girl{width:100px;height:100px;}
-table,tr{
-    border: 2px solid black;
-    margin: auto;}
+tr,td,table,th{
+    border: 0.5vw solid black;
+border-style: ridge;}
 #col2{background-color: brown;}
 #col4{background-color: brown;}
 
@@ -37,4 +37,5 @@ table,tr{
 }
 .border3{
     background-clip: border-box;
+    margin:auto;
 }
