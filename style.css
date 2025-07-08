@@ -11,7 +11,7 @@ background-attachment: fixed;
 background-position: top right;
 }
 
-div{ border: 20px double /*It can be used from (solid and dotted) */ rgb(208, 134, 22);
+div{ border: 20px double /*It can be used from (solid and dotted and dashed and groove) */ rgb(208, 134, 22);
     background-color: rgba(4, 255, 96, 0.329);
 padding: 2vw;
 }
@@ -23,8 +23,8 @@ padding: 2vw;
 }
 
 tr,td,table,th{
-    border: 0.5vw solid black;
-border-style: ridge;
+    border: 0.5vw ridge black;
+
 }
 
 #col2{background-image: url(images/SharedScreenshot.jpg);
@@ -43,4 +43,7 @@ background-size: contain;  /*100% 50% and cover */
 .border3{
     background-clip: border-box;
     margin:auto;
+}
+.border4{border-style: groove; 
+
 }
