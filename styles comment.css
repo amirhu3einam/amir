@@ -1,0 +1,40 @@
+/* font-size: 2mm;
+    font-size: 2cm;not good */
+    /* font-size: 20px; rosolation images */
+    /* font-size: 50%; nesbat be parent mored nazar taqir mikonad responsive*/
+    /* font-size: 3ch; be enendaze karakter 0 taqir mikone */
+    /* font-size: 0.5em;parent responsive*/
+    /* (0.5 x 30=15px) */
+    /* font-size: 0.5rem;parent html responsive*/
+     /* background: color img position size repeat origin clip attachment; */
+     /* div {
+    background-image: url('image/350_150.png');
+    border: 10px dotted lightgreen;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-position: 10% 30%;
+    background-position: 100px 22px;
+} */
+
+
+/* div {
+    background-image: url('image/350_150.png');
+    border: 10px dotted lightgreen;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain;
+    background-size: 40px 100px;
+} */
+    /* border-style: dotted; */
+    /* border-style: dashed; */
+    /* border-style: solid; */
+    /* border-style: double; */
+    /* border-style: groove; */
+    /* border-style: ridge; */
+    /* border-style: inset; */
+    /* border-style: outset; */
+    /* border-style: none; */
+    /* border-style: hidden; */
+    /* border-width: 10px; */
+    /* border-width: thick; */
+    /* border-width: 10px 20px 10px 30px; */
