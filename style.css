@@ -1,6 +1,7 @@
 /*css.......................................*/
 
 body{text-align: center;
+    margin: auto;
 }
 
 body{background-color: rgba(70, 95, 135, 0.6);
@@ -48,4 +49,7 @@ background-size: contain;  /*100% 50% and cover */
 .border4{border-style: groove; 
         border-width:6px 20px;
         border-color: black;
+}
+.navar{
+    margin-left: 43.5%;
 }
