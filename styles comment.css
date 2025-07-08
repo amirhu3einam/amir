@@ -37,4 +37,5 @@
     /* border-style: hidden; */
     /* border-width: 10px; */
     /* border-width: thick; */
-    /* border-width: 10px 20px 10px 30px; */
+    /* border-width: 10px 20px;(top and down   right and left) */
+    /* border-width: 10px 20px 10px 30px;(top right down left) */

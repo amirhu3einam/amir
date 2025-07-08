@@ -45,5 +45,5 @@ background-size: contain;  /*100% 50% and cover */
     margin:auto;
 }
 .border4{border-style: groove; 
-
+        border-width:6px 20px;
 }
